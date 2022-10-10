@@ -1,0 +1,119 @@
+.carousel-item img{
+
+}
+
+#carouselExampleIndicators{
+ /* width:60%;*/
+  margin-top: 50px;
+  /* margin-left: 20%;
+  margin-right: 20%; */
+
+  margin-left: min(20vh,4vw);
+  margin-right: min(20vh,4vw);
+  
+  
+}
+
+
+.multi > h2{
+ 
+  color:#3B3131;
+
+}
+
+.multi{
+  
+  color: darkgrey;
+  text-align: center;
+  padding: 50px;
+
+}
+
+h4{
+
+   text-align: center;
+}
+
+.row{
+
+   text-align: center;
+  
+}
+
+.icon{
+  vertical-align: middle;
+  font-size: 40px;
+
+}
+
+footer{
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #00CED1;
+  height: auto;
+  width: 100vw;
+  padding-top: 40px;
+  color: #fff;
+  margin-top: 50px;
+}
+
+.socials{
+  list-style: none;
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  margin: 1rem 0 3rem 0;
+}
+
+.socials li{
+  margin: 0 10px;
+  padding-right:0%
+}
+
+.socials a{
+  text-decoration: none;
+  color: #fff;
+  border: 1.1px solid white;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.socials a i{
+  font-size: 1.1rem;
+  width: 20px;
+  transition: color .4s ease;
+}
+
+.socials a:hover i{
+  color: aqua;
+
+}
+
+.container-fluid .row .col-sm-4 i{
+
+  margin-block: 10px;
+  font-size:xx-large;
+  color: #00CED1;
+
+
+
+}
+
+.ficon{
+  border: 2px solid black;
+ border-color: gray;
+
+}
+
+.container-fluid .row .col-sm-4 #enNo {
+
+  color: #00CED1 !important;
+}
+
+.container-fluid .row .col-sm-4 p i  {
+
+  color: black;
+  font-size: small;
+}
+
